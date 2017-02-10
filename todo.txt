@@ -1,0 +1,17 @@
+Big Topics:
+
+Rendering Engine (not just utilities)
+
+
+
+Other:
+- Reusable engine with ability to insert own game
+- Better scratchpad support
+- Better image loading
+- separate game and engine data
+- Render data needs to be grouped together in to higher level rendering abstraction (Shaders, Materials, Meshes, Transforms)
+- Add auto shader selection
+- Add shape primitives (Squares, spheres, cubes, rectangles)
+- Flexible transform class - no need to set up camera/projection matrices etc.
+- non perspective views (orthogonal views?)
+- Rendering ENgine
